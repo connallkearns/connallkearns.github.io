@@ -10,9 +10,9 @@ contact_note:
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Personal website of Connall Kearns, MSc Data Science graduate.
 footer_text: >
-  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  <a href="/privacy/">Privacy notice</a>.
+  Powered by <a href="https://jekyllrb.com/" target="_blank"><u>Jekyll</u></a> with <a href="https://github.com/alshedivat/al-folio"><u>al-folio</u></a> theme.
+  Hosted by <a href="https://pages.github.com/" target="_blank"><u>GitHub Pages</u></a>.
+  <a href="/privacy/"><u>Privacy notice</u></a>.
 keywords: Connall Kearns, data science, projects
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🧪 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
@@ -124,7 +124,7 @@ analytics:
   cronitor: # cronitor RUM analytics site ID (format: XXXXXXXXX)
   pirsch: # your Pirsch analytics site ID (length 32 characters)
   openpanel: # your Openpanel analytics client ID (format: XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX)
-  cloudflare: # your Cloudflare Web Analytics beacon token (32 hex characters)
+  cloudflare: 80133de6c2b64fbdb88909bd32631e9c # your Cloudflare Web Analytics beacon token (32 hex characters)
 enable_simple_analytics: false # Simple Analytics identifies a site by its domain, so it has no ID to set above
 
 # For Google Search Console, see https://support.google.com/webmasters/answer/9008080?hl=en#meta_tag_verification&zippy=%2Chtml-tag
